@@ -6,4 +6,5 @@
 - 👀 Currently developing **mTaser & mMask**
 - 📫 How to reach me: Telegram **( @dervone ) | Discord ( dervi. )**
 
-![image-modified](https://github.com/simbolii/simbolii/assets/111610611/da7eb2c6-13d2-4bfc-b23f-9aec6142e244)
+![image](https://github.com/dervinocap/dervinocap/assets/111610611/1ea36b56-5ce3-4d55-b0e1-8307f12b24bc)
+
