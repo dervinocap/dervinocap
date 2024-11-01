@@ -1,16 +1,38 @@
-## Hi there 👋
-
-<!--
-**dervinocap/dervinocap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p float="left">
+    <img src="/images/left.png" height="350" align="left">
+    <img src="/images/right.png" height="350" align="right">
+  </p>
+  <div align="center">
+    <samp>
+      <br> 👨‍💻 **Languages and Tools**
+  <br>
+  <br>
+    </samp>
+    <p>
+  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-plain.svg">
+</p>
+<p>
+  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/>
+  <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+  <img alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+</p>
+<p>
+  <img alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
+	<samp>
+      <br> 📊 **Stats**
+  <br>
+  <br>
+    </samp>
+  </div>
+  <br>
+  <img width="100px" src="https://komarev.com/ghpvc/?username=DerviNoCap&style=flat-square&color=90acd0" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DerviNoCap&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="DerviNoCap" width="340" />
+</div>
