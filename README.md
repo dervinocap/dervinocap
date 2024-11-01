@@ -31,7 +31,7 @@
   <br>
 </samp>
   </div>
-  <img width="100px" src="https://komarev.com/ghpvc/?username=DerviNoCap&style=flat-square&color=90acd0" />
+  <img width="100px" src="https://komarev.com/ghpvc/?username=dervinocap&style=flat-square&color=90acd0" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DerviNoCap&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="DerviNoCap" width="340" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dervinocap&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="dervinocap" width="340" />
 </div>
