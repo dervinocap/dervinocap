@@ -1,3 +1,5 @@
+#
+<h3>👨‍💻 Languages and Tools</h3>
 <div align="center">
   <p float="left">
     <img src="/images/left.png" height="350" align="left">
@@ -9,7 +11,8 @@
   <br>
   <br>
     </samp>
-    <p>
+</div>
+<p>
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-plain.svg">
 </p>
@@ -24,8 +27,8 @@
   <img alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
-	<samp>
-      <br> 📊 Stats
+<div align="center">
+<samp>
   <br>
   <br>
     </samp>
