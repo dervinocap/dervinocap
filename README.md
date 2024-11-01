@@ -26,12 +26,19 @@
   <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 <div align="center">
+<samp>
+  <br>
+  <br>
+</samp>
+<br>
 <h3>📊 Stats</h3>
 <samp>
   <br>
-    </samp>
+</samp>
   </div>
   <img width="100px" src="https://komarev.com/ghpvc/?username=DerviNoCap&style=flat-square&color=90acd0" />
+  <br>
+  <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DerviNoCap&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="DerviNoCap" width="340" />
 </div>
