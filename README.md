@@ -31,7 +31,6 @@
   <br>
     </samp>
   </div>
-  <br>
   <img width="100px" src="https://komarev.com/ghpvc/?username=DerviNoCap&style=flat-square&color=90acd0" />
   <br>
   <br>
