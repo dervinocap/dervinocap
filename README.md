@@ -1,13 +1,13 @@
-#
-<h3>👨‍💻 Languages and Tools</h3>
+
 <div align="center">
+<h3>👨‍💻 Languages and Tools</h3>
   <p float="left">
     <img src="/images/left.png" height="350" align="left">
     <img src="/images/right.png" height="350" align="right">
   </p>
   <div align="center">
     <samp>
-      <br> 👨‍💻 Languages and Tools
+      <br>
   <br>
   <br>
     </samp>
