@@ -5,7 +5,7 @@
   </p>
   <div align="center">
     <samp>
-      <br> 👨‍💻 **Languages and Tools**
+      <br> 👨‍💻 Languages and Tools
   <br>
   <br>
     </samp>
@@ -25,7 +25,7 @@
   <img alt="VisualStudioCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 	<samp>
-      <br> 📊 **Stats**
+      <br> 📊 Stats
   <br>
   <br>
     </samp>
